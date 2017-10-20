@@ -1,0 +1,12 @@
+#change-password{color:white;background-color:black;}
+ input{
+ border:1px solid olive;
+ border-radius:5px;
+ }
+ td{padding:20px}
+ h1{
+  color:darkgreen;
+  font-size:35px;
+  text-align:center;
+ }
+    #login{padding-top:0px}
